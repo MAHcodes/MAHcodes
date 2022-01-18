@@ -1,16 +1,33 @@
-### Hi there 👋
+## <center><img src="./Hi.gif" width="30px"> Hi, I'm Mhmd Ali</center>
 
-<!--
-**mhmdali102/mhmdali102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <center>A passionate Front End Web Developer.</center>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :eyes: About Me
+
+- :books: I'm self-taught Front End Web Developer.
+- :dart: I'm currently learning ReactJS/Redux/Firebase/NextJS.
+- :mortar_board: I'm currently studying MIS Second Year.
+- :art: I'm interested in design & UI/UX.
+
+- Fun fact:
+
+<br><br>
+
+## :computer: Top Skills
+
+- <img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+  <img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+  <img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+  <img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+
+<br><br>
+
+## :bar_chart: My Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdali102&show_icons=true&locale=en" width="50%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdali102&" width="50%">
+
+<br><br>
+
+## :inbox_tray: How to reach me
