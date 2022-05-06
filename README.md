@@ -17,17 +17,17 @@
 
 ### :computer: Top Skills
 
-<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' />
+<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' />
+<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' />
+<img width ='36px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' />
 
 <br>
 <br>
 
 ### :bar_chart: My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdali102&show_icons=true&locale=en" width="49%"><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdali102&" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdali102&show_icons=true&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdali102&" width="49%" />
 
 <br>
 
