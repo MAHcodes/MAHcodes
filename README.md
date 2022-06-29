@@ -2,6 +2,10 @@
 
 <h3 align="center">A passionate Front End Web Developer.</h3>
 
+<center>
+<img src="https://komarev.com/ghpvc/?username=mhmdali102&style=for-the-badge" alt="mhmdali102 github profile views" />
+</center>
+
 <br>
 
 ### :man_technologist: About Me
