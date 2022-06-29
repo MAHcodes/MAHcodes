@@ -37,8 +37,9 @@
 
 <br>
 
-### :zap: Other Stats
-
+<details>
+<summary><strong style="font-size: 1.5rem;"> 🤓 Other Stats </strong></summary>
+<br>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -117,6 +118,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 29/06/2022 17:01:22 UTC
 <!--END_SECTION:waka-->
+</details>
 
 ### :zap: Recent Activity
 
@@ -128,18 +130,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
-<<<<<<< HEAD
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 29th, 2022, 4:38:50 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-||||||| parent of dbc5cf8 (waka readme)
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 29th, 2022, 3:50:02 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-=======
->>>>>>> dbc5cf8 (waka readme)
 ### :inbox_tray: How to reach me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmdalihsen102@gmail.com)
