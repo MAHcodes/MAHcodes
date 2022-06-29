@@ -33,6 +33,11 @@
 
 <br>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### :inbox_tray: How to reach me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmdalihsen102@gmail.com)
