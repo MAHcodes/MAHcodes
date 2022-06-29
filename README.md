@@ -41,15 +41,8 @@
 <summary style="font-size: 1.75rem; font-weight: bold;"><strong style="font-size: 1.75rem; font-weight: bold;"> 🤓 Other Stats </strong></summary>
 <br>
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
-||||||| parent of 7fb2d61 (some waka improvements)
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-=======
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
->>>>>>> 7fb2d61 (some waka improvements)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
