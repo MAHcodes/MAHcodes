@@ -123,11 +123,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-3. 📔 Created new repository [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
-4. ⭐ Starred [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⭐ Starred [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang)
+2. ⭐ Starred [fdehau/tui-rs](https://github.com/fdehau/tui-rs)
+3. ⭐ Starred [orhun/gpg-tui](https://github.com/orhun/gpg-tui)
+4. ⭐ Starred [imsnif/bandwhich](https://github.com/imsnif/bandwhich)
+5. ⭐ Starred [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
