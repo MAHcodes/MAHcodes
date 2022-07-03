@@ -127,11 +127,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+2. ⬆️ Pushed 2 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. ⭐ Starred [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang)
-5. ⭐ Starred [fdehau/tui-rs](https://github.com/fdehau/tui-rs)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⭐ Starred [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
