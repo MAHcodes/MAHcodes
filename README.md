@@ -127,11 +127,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
-3. ⭐ Starred [adrianhajdin/project_graphql_blog](https://github.com/adrianhajdin/project_graphql_blog)
-4. ⭐ Starred [NvChad/NvChad](https://github.com/NvChad/NvChad)
-5. ⭐ Starred [siduck/chadwm](https://github.com/siduck/chadwm)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
+4. ⭐ Starred [adrianhajdin/project_graphql_blog](https://github.com/adrianhajdin/project_graphql_blog)
+5. ⭐ Starred [NvChad/NvChad](https://github.com/NvChad/NvChad)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
