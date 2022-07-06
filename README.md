@@ -127,11 +127,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-2. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. ⬆️ Pushed 3 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+2. ⬆️ Pushed 3 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+3. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⬆️ Pushed 3 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
