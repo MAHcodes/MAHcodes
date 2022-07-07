@@ -127,11 +127,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim)
-2. ⬆️ Pushed 2 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+2. ⭐ Starred [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim)
+3. ⬆️ Pushed 2 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
