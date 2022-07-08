@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Front End Web Developer.</h3>
 
-<div aling="center">
+<div align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=mhmdali102&style=for-the-badge&logo=" alt="mhmdali102 github profile views" /></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
