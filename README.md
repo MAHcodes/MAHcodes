@@ -3,7 +3,11 @@
 <h3 align="center">A passionate Front End Web Developer.</h3>
 
 <center>
-<img src="https://komarev.com/ghpvc/?username=mhmdali102&style=for-the-badge" alt="mhmdali102 github profile views" />
+<img src="https://komarev.com/ghpvc/?username=mhmdali102&style=for-the-badge&logo=" alt="mhmdali102 github profile views" />
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
+	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
+	<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm" /></a>
+	<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim" /></a>
 </center>
 
 <br>
@@ -45,9 +49,9 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 🏆 464 Contributions in the Year 2022
+> 🏆 427 Contributions in the Year 2022
  > 
 > 📦 277.1 kB Used in GitHub's Storage 
  > 
@@ -60,78 +64,72 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.85% 
-🌆 Daytime    170 commits    █████░░░░░░░░░░░░░░░░░░░░   23.0% 
-🌃 Evening    338 commits    ███████████░░░░░░░░░░░░░░   45.74% 
-🌙 Night      173 commits    █████░░░░░░░░░░░░░░░░░░░░   23.41%
+🌞 Morning    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
+🌆 Daytime    163 commits    █████░░░░░░░░░░░░░░░░░░░░   22.7% 
+🌃 Evening    326 commits    ███████████░░░░░░░░░░░░░░   45.4% 
+🌙 Night      169 commits    ██████░░░░░░░░░░░░░░░░░░░   23.54%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       145 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62% 
-Tuesday      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-Wednesday    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Thursday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.15% 
-Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
-Sunday       123 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.64%
+Monday       142 commits    █████░░░░░░░░░░░░░░░░░░░░   19.78% 
+Tuesday      87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Wednesday    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
+Thursday     70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+Saturday     111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
+Sunday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.99%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Beirut
 
 💬 Programming Languages: 
-TypeScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22% 
-JavaScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-Lua                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
-Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-conf                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87%
+No Activity Tracked This Week
 
+<<<<<<< HEAD
 🔥 Editors: 
-Neovim                   1 hr 30 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mhmdali102               47 mins             █████████████░░░░░░░░░░░░   52.73% 
-canadiansouq.com         15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-NextJS                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
-dwm                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-python-projects          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               12 repos            ██████████████░░░░░░░░░░░   57.14% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+JavaScript               10 repos            █████████████░░░░░░░░░░░░   52.63% 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
+Last Updated on 29/06/2022 17:21:06 UTC
 
 
- Last Updated on 07/07/2022 18:46:35 UTC
+ Last Updated on 29/06/2022 17:21:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff)
-2. ⭐ Starred [almahdi/frontend-stuff](https://github.com/almahdi/frontend-stuff)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. ❗️ Opened issue [#1](https://github.com/mhmdali102/python-projects/issues/1) in [mhmdali102/python-projects](https://github.com/mhmdali102/python-projects)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
