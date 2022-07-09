@@ -128,10 +128,10 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+1. ⬆️ Pushed 3 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 5. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
 <!--RECENT_ACTIVITY:end-->
 
