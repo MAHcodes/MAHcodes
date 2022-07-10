@@ -128,11 +128,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
-4. ⬆️ Pushed 3 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
