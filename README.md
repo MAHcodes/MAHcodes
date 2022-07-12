@@ -129,9 +129,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-2. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+2. ⬆️ Pushed 5 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+3. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
 4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 <!--RECENT_ACTIVITY:end-->
