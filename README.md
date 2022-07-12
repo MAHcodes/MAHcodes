@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-3. ⬆️ Pushed 5 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
-4. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+1. ⬆️ Pushed 3 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+2. ⭐ Starred [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+4. ⬆️ Pushed 5 commit(s) to [mhmdali102/perfect-card](https://github.com/mhmdali102/perfect-card)
+5. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
