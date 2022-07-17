@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
-2. ⭐ Starred [Figma-Linux/figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper)
-3. ⬆️ Pushed 3 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+2. ⭐ Starred [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
+3. ⭐ Starred [Figma-Linux/figma-linux-font-helper](https://github.com/Figma-Linux/figma-linux-font-helper)
+4. ⬆️ Pushed 3 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
