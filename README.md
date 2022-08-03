@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Hyde46/hoard](https://github.com/Hyde46/hoard)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
-4. ⬆️ Pushed 2 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
-5. 🔱 Forked [mhmdali102/emoji-cheat-sheet](https://github.com/mhmdali102/emoji-cheat-sheet) from [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
+4. ⭐ Starred [Hyde46/hoard](https://github.com/Hyde46/hoard)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
