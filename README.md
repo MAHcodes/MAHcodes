@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
-4. ⭐ Starred [Hyde46/hoard](https://github.com/Hyde46/hoard)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/PerfectCard](https://github.com/mhmdali102/PerfectCard)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
+5. ⭐ Starred [Hyde46/hoard](https://github.com/Hyde46/hoard)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
