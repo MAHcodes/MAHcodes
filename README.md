@@ -135,7 +135,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
 3. ⬆️ Pushed 1 commit(s) to [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
 4. ⬆️ Pushed 1 commit(s) to [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
-5. ⭐ Starred [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/NextJS](https://github.com/mhmdali102/NextJS)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
