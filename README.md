@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+1. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/start-page](https://github.com/mhmdali102/start-page)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dwm](https://github.com/mhmdali102/dwm)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/start-page](https://github.com/mhmdali102/start-page)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dwm](https://github.com/mhmdali102/dwm)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
