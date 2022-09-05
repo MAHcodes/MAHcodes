@@ -131,10 +131,10 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [mhmdali102/dogehouse](https://github.com/mhmdali102/dogehouse) from [benawad/dogehouse](https://github.com/benawad/dogehouse)
-2. ⭐ Starred [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+2. 🔱 Forked [mhmdali102/dogehouse](https://github.com/mhmdali102/dogehouse) from [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. ⭐ Starred [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)
 5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
