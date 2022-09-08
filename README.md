@@ -134,8 +134,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. 🔱 Forked [mhmdali102/dogehouse](https://github.com/mhmdali102/dogehouse) from [benawad/dogehouse](https://github.com/benawad/dogehouse)
-5. ⭐ Starred [benawad/dogehouse](https://github.com/benawad/dogehouse)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. 🔱 Forked [mhmdali102/dogehouse](https://github.com/mhmdali102/dogehouse) from [benawad/dogehouse](https://github.com/benawad/dogehouse)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
