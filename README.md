@@ -132,10 +132,10 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. ⬆️ Pushed 2 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⬆️ Pushed 2 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
