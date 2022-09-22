@@ -132,9 +132,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. ⭐ Starred [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dwm](https://github.com/mhmdali102/dwm)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⭐ Starred [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
