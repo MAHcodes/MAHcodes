@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)
+1. ⭐ Starred [pabloariasal/zfm](https://github.com/pabloariasal/zfm)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⭐ Starred [abzcoding/lvim](https://github.com/abzcoding/lvim)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/start-page](https://github.com/mhmdali102/start-page)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+3. ⭐ Starred [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⭐ Starred [abzcoding/lvim](https://github.com/abzcoding/lvim)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
