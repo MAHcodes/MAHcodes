@@ -132,10 +132,10 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-3. ⬆️ Pushed 84 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/ReactJS](https://github.com/mhmdali102/ReactJS)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dwm](https://github.com/mhmdali102/dwm)
+2. ⬆️ Pushed 2 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+4. ⬆️ Pushed 84 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/ReactJS](https://github.com/mhmdali102/ReactJS)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
