@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
-4. 💪 Opened PR [#223](https://github.com/LunarVim/lunarvim.org/pull/223) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. ⬆️ Pushed 19 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
+1. ⭐ Starred [pankod/superplate](https://github.com/pankod/superplate)
+2. ⭐ Starred [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
