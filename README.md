@@ -134,8 +134,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 3. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-4. ⭐ Starred [pankod/superplate](https://github.com/pankod/superplate)
-5. ⭐ Starred [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+5. ⭐ Starred [pankod/superplate](https://github.com/pankod/superplate)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
