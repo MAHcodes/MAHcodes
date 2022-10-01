@@ -133,9 +133,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
 2. ⬆️ Pushed 1 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
 4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-5. ⭐ Starred [LunarVim/templeos.nvim](https://github.com/LunarVim/templeos.nvim)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
