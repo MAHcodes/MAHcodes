@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
-2. 💪 Opened PR [#231](https://github.com/LunarVim/lunarvim.org/pull/231) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⭐ Starred [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. ⬆️ Pushed 6 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. 🎉 Merged PR [#230](https://github.com/LunarVim/lunarvim.org/pull/230) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ⬆️ Pushed 7 commit(s) to [vonPB/lunarvim.org](https://github.com/vonPB/lunarvim.org)
+5. ⬆️ Pushed 6 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
