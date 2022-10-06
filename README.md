@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⭐ Starred [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-3. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ⬆️ Pushed 2 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-5. 💬 Commented on [#238](https://github.com/LunarVim/lunarvim.org/issues/238#issuecomment-1269126341) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+1. 🎉 Merged PR [#242](https://github.com/LunarVim/lunarvim.org/pull/242) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. ⬆️ Pushed 3 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. ⭐ Starred [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+5. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
