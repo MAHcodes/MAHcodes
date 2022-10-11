@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#227](https://github.com/LunarVim/lunarvim.org/pull/227#discussion_r991790514) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-2. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1274045186) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-3. ⬆️ Pushed 21 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
-4. ⭐ Starred [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⭐ Starred [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org)
+2. 💬 Commented on [#227](https://github.com/LunarVim/lunarvim.org/pull/227#discussion_r991790514) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1274045186) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ⬆️ Pushed 21 commit(s) to [mhmdali102/lunarvim.org](https://github.com/mhmdali102/lunarvim.org)
+5. ⭐ Starred [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
