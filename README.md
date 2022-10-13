@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1277437966) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-5. ⭐ Starred [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org)
+1. ⭐ Starred [BuilderIO/builder](https://github.com/BuilderIO/builder)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1277437966) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
