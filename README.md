@@ -131,11 +131,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/java](https://github.com/mhmdali102/java)
-2. ⭐ Starred [BuilderIO/builder](https://github.com/BuilderIO/builder)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1277437966) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/java](https://github.com/mhmdali102/java)
+3. ⭐ Starred [BuilderIO/builder](https://github.com/BuilderIO/builder)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1277437966) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
