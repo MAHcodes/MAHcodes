@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⭐ Starred [vercel/turbo](https://github.com/vercel/turbo)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1293856390) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. ✔️ Closed issue [#234](https://github.com/LunarVim/lunarvim.org/issues/234) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. 🎉 Merged PR [#275](https://github.com/LunarVim/lunarvim.org/pull/275) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
