@@ -132,10 +132,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⭐ Starred [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)
-3. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1293856390) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ✔️ Closed issue [#234](https://github.com/LunarVim/lunarvim.org/issues/234) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. 🎉 Merged PR [#275](https://github.com/LunarVim/lunarvim.org/pull/275) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. ⭐ Starred [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)
+4. 💬 Commented on [#234](https://github.com/LunarVim/lunarvim.org/issues/234#issuecomment-1293856390) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+5. ✔️ Closed issue [#234](https://github.com/LunarVim/lunarvim.org/issues/234) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
