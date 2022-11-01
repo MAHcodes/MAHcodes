@@ -131,10 +131,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⭐ Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-4. ⭐ Starred [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux)
+1. 💪 Opened PR [#5](https://github.com/hyprwm/hyprland-website/pull/5) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/hyprland-website](https://github.com/mhmdali102/hyprland-website)
+3. ⭐ Starred [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
+4. 🔱 Forked [mhmdali102/hyprland-website](https://github.com/mhmdali102/hyprland-website) from [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
 5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
