@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/hyprwm/hyprland-website/pull/8) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
-2. 💬 Commented on [#6](https://github.com/hyprwm/hyprland-website/pull/6#issuecomment-1298843771) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
-3. ⬆️ Pushed 3 commit(s) to [mhmdali102/hyprland-website](https://github.com/mhmdali102/hyprland-website)
-4. 💪 Opened PR [#7](https://github.com/hyprwm/hyprland-website/pull/7) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/hyprland-website](https://github.com/mhmdali102/hyprland-website)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+2. 💪 Opened PR [#8](https://github.com/hyprwm/hyprland-website/pull/8) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
+3. 💬 Commented on [#6](https://github.com/hyprwm/hyprland-website/pull/6#issuecomment-1298843771) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
+4. ⬆️ Pushed 3 commit(s) to [mhmdali102/hyprland-website](https://github.com/mhmdali102/hyprland-website)
+5. 💪 Opened PR [#7](https://github.com/hyprwm/hyprland-website/pull/7) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
