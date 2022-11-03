@@ -132,10 +132,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⭐ Starred [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-4. 💪 Opened PR [#8](https://github.com/hyprwm/hyprland-website/pull/8) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
-5. 💬 Commented on [#6](https://github.com/hyprwm/hyprland-website/pull/6#issuecomment-1298843771) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. ⭐ Starred [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+5. 💪 Opened PR [#8](https://github.com/hyprwm/hyprland-website/pull/8) in [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
