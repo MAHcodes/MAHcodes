@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zap-zsh/zap](https://github.com/zap-zsh/zap)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. 💪 Opened PR [#286](https://github.com/LunarVim/lunarvim.org/pull/286) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+2. ⭐ Starred [zap-zsh/zap](https://github.com/zap-zsh/zap)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. 💪 Opened PR [#286](https://github.com/LunarVim/lunarvim.org/pull/286) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
