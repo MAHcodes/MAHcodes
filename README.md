@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [mhmdali102/zapzsh.org](https://github.com/mhmdali102/zapzsh.org) from [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⬆️ Pushed 3 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. 🔱 Forked [mhmdali102/zapzsh.org](https://github.com/mhmdali102/zapzsh.org) from [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
 3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-4. ⭐ Starred [zap-zsh/zap](https://github.com/zap-zsh/zap)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+5. ⭐ Starred [zap-zsh/zap](https://github.com/zap-zsh/zap)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
