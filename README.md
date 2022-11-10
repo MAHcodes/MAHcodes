@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
-2. 💬 Commented on [#290](https://github.com/LunarVim/lunarvim.org/issues/290#issuecomment-1310022583) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-3. 💬 Commented on [#290](https://github.com/LunarVim/lunarvim.org/issues/290#issuecomment-1310019949) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ⬆️ Pushed 2 commit(s) to [mhmdali102/zapzsh.org](https://github.com/mhmdali102/zapzsh.org)
-5. 💪 Opened PR [#1](https://github.com/zap-zsh/zapzsh.org/pull/1) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
+1. 💬 Commented on [#2](https://github.com/zap-zsh/zapzsh.org/pull/2#issuecomment-1310568427) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
+2. 💪 Opened PR [#2](https://github.com/zap-zsh/zapzsh.org/pull/2) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
+3. ⭐ Starred [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
+4. 💬 Commented on [#290](https://github.com/LunarVim/lunarvim.org/issues/290#issuecomment-1310022583) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+5. 💬 Commented on [#290](https://github.com/LunarVim/lunarvim.org/issues/290#issuecomment-1310019949) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
