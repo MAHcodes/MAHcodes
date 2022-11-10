@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-2. ⭐ Starred [rxyhn/yoru](https://github.com/rxyhn/yoru)
-3. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. ⬆️ Pushed 3 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+1. 💬 Commented on [#290](https://github.com/LunarVim/lunarvim.org/issues/290#issuecomment-1309906955) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. ⬆️ Pushed 11 commit(s) to [mhmdali102/zapzsh.org](https://github.com/mhmdali102/zapzsh.org)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+4. ⭐ Starred [rxyhn/yoru](https://github.com/rxyhn/yoru)
+5. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
