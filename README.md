@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [zap-zsh/.github](https://github.com/zap-zsh/.github)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. 🎉 Merged PR [#292](https://github.com/LunarVim/lunarvim.org/pull/292) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ⬆️ Pushed 6 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. 💬 Commented on [#292](https://github.com/LunarVim/lunarvim.org/pull/292#issuecomment-1310657548) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+1. ⬆️ Pushed 1 commit(s) to [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
+2. ⬆️ Pushed 1 commit(s) to [zap-zsh/.github](https://github.com/zap-zsh/.github)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. 🎉 Merged PR [#292](https://github.com/LunarVim/lunarvim.org/pull/292) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+5. ⬆️ Pushed 6 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
