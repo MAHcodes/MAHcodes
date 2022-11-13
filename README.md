@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ccrsxx/twitter-clone](https://github.com/ccrsxx/twitter-clone)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⬆️ Pushed 6 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
-4. ✔️ Closed issue [#290](https://github.com/LunarVim/lunarvim.org/issues/290) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. ⬆️ Pushed 4 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
+2. ⭐ Starred [ccrsxx/twitter-clone](https://github.com/ccrsxx/twitter-clone)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. ⬆️ Pushed 6 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+5. ✔️ Closed issue [#290](https://github.com/LunarVim/lunarvim.org/issues/290) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
