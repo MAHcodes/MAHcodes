@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⬆️ Pushed 2 commit(s) to [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
-3. ⭐ Starred [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
-5. ⭐ Starred [ccrsxx/twitter-clone](https://github.com/ccrsxx/twitter-clone)
+1. ⬆️ Pushed 2 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+3. ⬆️ Pushed 2 commit(s) to [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)
+4. ⭐ Starred [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
