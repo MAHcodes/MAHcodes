@@ -132,10 +132,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
-2. ⬆️ Pushed 2 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
 3. ⬆️ Pushed 2 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
-4. 💬 Commented on [#299](https://github.com/LunarVim/lunarvim.org/pull/299#issuecomment-1321069434) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. 🎉 Merged PR [#299](https://github.com/LunarVim/lunarvim.org/pull/299) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ⬆️ Pushed 2 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+5. 💬 Commented on [#299](https://github.com/LunarVim/lunarvim.org/pull/299#issuecomment-1321069434) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
