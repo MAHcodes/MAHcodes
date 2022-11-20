@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#299](https://github.com/LunarVim/lunarvim.org/pull/299#issuecomment-1321069434) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-2. 🎉 Merged PR [#299](https://github.com/LunarVim/lunarvim.org/pull/299) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-3. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ✔️ Closed issue [#281](https://github.com/LunarVim/lunarvim.org/issues/281) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-5. 🎉 Merged PR [#296](https://github.com/LunarVim/lunarvim.org/pull/296) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+1. ⬆️ Pushed 2 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+2. 💬 Commented on [#299](https://github.com/LunarVim/lunarvim.org/pull/299#issuecomment-1321069434) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. 🎉 Merged PR [#299](https://github.com/LunarVim/lunarvim.org/pull/299) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+5. ✔️ Closed issue [#281](https://github.com/LunarVim/lunarvim.org/issues/281) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
