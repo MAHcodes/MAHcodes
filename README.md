@@ -131,11 +131,11 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
-3. ⬆️ Pushed 2 commit(s) to [mhmdali102/dwm](https://github.com/mhmdali102/dwm)
+1. ⭐ Starred [baskerville/sxhkd](https://github.com/baskerville/sxhkd)
+2. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 4. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+5. ⬆️ Pushed 2 commit(s) to [mhmdali102/dwm](https://github.com/mhmdali102/dwm)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
