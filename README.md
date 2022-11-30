@@ -131,10 +131,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⬆️ Pushed 7 commit(s) to [mhmdali102/LT](https://github.com/mhmdali102/LT)
-4. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
+4. ⬆️ Pushed 7 commit(s) to [mhmdali102/LT](https://github.com/mhmdali102/LT)
 5. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 <!--RECENT_ACTIVITY:end-->
 
