@@ -132,10 +132,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
-2. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
+2. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
+3. ⬆️ Pushed 1 commit(s) to [mhmdali102/mhmdali102](https://github.com/mhmdali102/mhmdali102)
 4. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
-5. ⬆️ Pushed 1 commit(s) to [mhmdali102/dotfiles](https://github.com/mhmdali102/dotfiles)
+5. ⬆️ Pushed 1 commit(s) to [mhmdali102/canadiansouq.com](https://github.com/mhmdali102/canadiansouq.com)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
