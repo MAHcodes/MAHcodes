@@ -131,9 +131,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [mhmdali102/portfolio](https://github.com/mhmdali102/portfolio)
-2. 📔 Created new repository [mhmdali102/portfolio](https://github.com/mhmdali102/portfolio)
-3. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
+1. ⬆️ Pushed 1 commit(s) to [mhmdali102/portfolio](https://github.com/mhmdali102/portfolio)
+2. ⬆️ Pushed 2 commit(s) to [mhmdali102/portfolio](https://github.com/mhmdali102/portfolio)
+3. 📔 Created new repository [mhmdali102/portfolio](https://github.com/mhmdali102/portfolio)
 4. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
 5. ⬆️ Pushed 1 commit(s) to [mhmdali102/xerolinux.xyz](https://github.com/mhmdali102/xerolinux.xyz)
 <!--RECENT_ACTIVITY:end-->
