@@ -132,10 +132,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
-2. ⬆️ Pushed 2 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/xerolinux.xyz](https://github.com/MAHcodes/xerolinux.xyz)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
+3. ⬆️ Pushed 2 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/xerolinux.xyz](https://github.com/MAHcodes/xerolinux.xyz)
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
