@@ -1,4 +1,4 @@
-<h2 align="center"><img src="./Hi.gif" width="30px" height="30px"> Hi, I'm Mhmd Ali</h2>
+<h2 align="center"><img src="./Hi.gif" width="30px" height="30px"> Hi, I'm MAHcodes</h2>
 
 <h3 align="center">A passionate Front End Web Developer.</h3>
 
