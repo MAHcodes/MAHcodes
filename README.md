@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Front End Web Developer.</h3>
 
 <div align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=mhmdali102&style=for-the-badge&logo=" alt="mhmdali102 github profile views" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=MAHcodes&style=for-the-badge&logo=" alt="MAHcodes github profile views" /></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
 	<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm" /></a>
@@ -37,7 +37,7 @@
 
 ### :bar_chart: My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdali102&show_icons=true&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdali102&" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MAHcodes&show_icons=true&locale=en" width="49%" /><span style="display:inline-block;width:2%"></span><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHcodes&" width="49%" />
 
 <br>
 
@@ -142,5 +142,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmdalihsen102@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MhmdAliHsen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmd-ali-hsen-66b0671b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mah-codes-66b0671b7/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&bgColor=black)](https://t.me/mhmdalihsen)
