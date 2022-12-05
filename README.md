@@ -131,10 +131,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
+1. ⬆️ Pushed 0 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
 2. ⬆️ Pushed 1 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
 3. ⬆️ Pushed 1 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
+4. ⬆️ Pushed 1 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
