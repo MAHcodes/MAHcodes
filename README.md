@@ -133,9 +133,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
-4. ⬆️ Pushed 0 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
-5. ⬆️ Pushed 1 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
+5. ⬆️ Pushed 0 commit(s) to [xerolinux/.github](https://github.com/xerolinux/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
