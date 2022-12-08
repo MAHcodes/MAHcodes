@@ -131,8 +131,8 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/ChristianChiarulli/chrisatmachine.com/issues/1) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+1. ✔️ Closed issue [#1](https://github.com/ChristianChiarulli/chrisatmachine.com/issues/1) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
+2. ❗️ Opened issue [#1](https://github.com/ChristianChiarulli/chrisatmachine.com/issues/1) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
 3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
