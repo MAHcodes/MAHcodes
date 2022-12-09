@@ -131,11 +131,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/chrisatmachine.com](https://github.com/MAHcodes/chrisatmachine.com)
-2. 💪 Opened PR [#2](https://github.com/ChristianChiarulli/chrisatmachine.com/pull/2) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
-3. 🔱 Forked [MAHcodes/chrisatmachine.com](https://github.com/MAHcodes/chrisatmachine.com) from [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
-4. ✔️ Closed issue [#1](https://github.com/ChristianChiarulli/chrisatmachine.com/issues/1) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
-5. ❗️ Opened issue [#1](https://github.com/ChristianChiarulli/chrisatmachine.com/issues/1) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/chrisatmachine.com](https://github.com/MAHcodes/chrisatmachine.com)
+3. 💪 Opened PR [#2](https://github.com/ChristianChiarulli/chrisatmachine.com/pull/2) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
+4. 🔱 Forked [MAHcodes/chrisatmachine.com](https://github.com/MAHcodes/chrisatmachine.com) from [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
+5. ✔️ Closed issue [#1](https://github.com/ChristianChiarulli/chrisatmachine.com/issues/1) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
