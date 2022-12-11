@@ -131,10 +131,10 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/ChristianChiarulli/chrisatmachine.com/pull/3) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
-2. 💪 Opened PR [#310](https://github.com/LunarVim/lunarvim.org/pull/310) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-4. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+1. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. 💪 Opened PR [#3](https://github.com/ChristianChiarulli/chrisatmachine.com/pull/3) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
+4. 💪 Opened PR [#310](https://github.com/LunarVim/lunarvim.org/pull/310) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 <!--RECENT_ACTIVITY:end-->
 
