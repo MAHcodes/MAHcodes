@@ -131,11 +131,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-2. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/chrisatmachine.com](https://github.com/MAHcodes/chrisatmachine.com)
-5. 💪 Opened PR [#2](https://github.com/ChristianChiarulli/chrisatmachine.com/pull/2) in [ChristianChiarulli/chrisatmachine.com](https://github.com/ChristianChiarulli/chrisatmachine.com)
+1. 💪 Opened PR [#310](https://github.com/LunarVim/lunarvim.org/pull/310) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+3. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/chrisatmachine.com](https://github.com/MAHcodes/chrisatmachine.com)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
