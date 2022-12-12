@@ -131,10 +131,10 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-2. 🎉 Merged PR [#310](https://github.com/LunarVim/lunarvim.org/pull/310) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-3. ⬆️ Pushed 3 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
-4. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+2. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+3. 🎉 Merged PR [#310](https://github.com/LunarVim/lunarvim.org/pull/310) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
+4. ⬆️ Pushed 3 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 5. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)
 <!--RECENT_ACTIVITY:end-->
 
