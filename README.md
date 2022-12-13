@@ -3,13 +3,18 @@
 <h3 align="center">A passionate Front End Web Developer.</h3>
 
 <div align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=MAHcodes&style=for-the-badge&logo=" alt="MAHcodes github profile views" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=MAHcodes&style=for-the-badge&color=FBA733" alt="MAHcodes github profile views" /></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
 	<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim" /></a>
 </div>
 
+<br>
+
+<div align="center">
+<h4>Total time coded since Jun 29 2022</h4>
+<a href="https://wakatime.com/@44eeab2c-51f5-4574-a918-82e5b17d9c49"><img src="https://wakatime.com/badge/user/44eeab2c-51f5-4574-a918-82e5b17d9c49.svg?style=for-the-badge" alt="Total time coded since Jun 29 2022" /></a></div>
 <br>
 
 ### :man_technologist: About Me
