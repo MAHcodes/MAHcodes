@@ -136,11 +136,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-3. ⭐ Starred [ChristianChiarulli/lvim](https://github.com/ChristianChiarulli/lvim)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
+2. ⬆️ Pushed 0 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
+4. 🔱 Forked [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy) from [zenorocha/codecopy](https://github.com/zenorocha/codecopy)
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
