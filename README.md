@@ -136,11 +136,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-2. ⭐ Starred [arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
-4. ⬆️ Pushed 0 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+3. ⭐ Starred [arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
+5. ⬆️ Pushed 0 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
