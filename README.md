@@ -136,11 +136,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-4. ⭐ Starred [arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/codecopy](https://github.com/MAHcodes/codecopy)
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+5. ⭐ Starred [arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
