@@ -137,10 +137,10 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-5. ⭐ Starred [arthuredelstein/privacytests.org](https://github.com/arthuredelstein/privacytests.org)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
