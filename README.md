@@ -136,11 +136,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
-3. ⬆️ Pushed 2 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
-4. ⭐ Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+1. ⭐ Starred [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
+4. ⬆️ Pushed 2 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
+5. ⭐ Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
