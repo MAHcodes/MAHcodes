@@ -136,10 +136,10 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-3. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
+1. ⬆️ Pushed 2 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
+2. ⭐ Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+4. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
