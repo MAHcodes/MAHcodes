@@ -136,11 +136,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/Ulyssedev/TerminalStartpages/pull/1) in [Ulyssedev/TerminalStartpages](https://github.com/Ulyssedev/TerminalStartpages)
-2. ⭐ Starred [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
-5. ⬆️ Pushed 2 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+2. ❌ Closed PR [#1](https://github.com/Ulyssedev/TerminalStartpages/pull/1) in [Ulyssedev/TerminalStartpages](https://github.com/Ulyssedev/TerminalStartpages)
+3. ⭐ Starred [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
