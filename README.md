@@ -136,11 +136,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [searx/searx](https://github.com/searx/searx)
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
-4. ❌ Closed PR [#1](https://github.com/Ulyssedev/TerminalStartpages/pull/1) in [Ulyssedev/TerminalStartpages](https://github.com/Ulyssedev/TerminalStartpages)
-5. ⭐ Starred [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop)
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+2. ⭐ Starred [searx/searx](https://github.com/searx/searx)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+5. ❌ Closed PR [#1](https://github.com/Ulyssedev/TerminalStartpages/pull/1) in [Ulyssedev/TerminalStartpages](https://github.com/Ulyssedev/TerminalStartpages)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
