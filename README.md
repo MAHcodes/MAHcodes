@@ -13,6 +13,9 @@
 <br>
 
 <div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/404595695195258880?bg=1E1E2E&theme=dark&)](https://discord.com/users/404595695195258880)
+
 <h4>Total time coded since Jun 29 2022</h4>
 <a href="https://wakatime.com/@44eeab2c-51f5-4574-a918-82e5b17d9c49"><img src="https://wakatime.com/badge/user/44eeab2c-51f5-4574-a918-82e5b17d9c49.svg?style=for-the-badge" alt="Total time coded since Jun 29 2022" /></a></div>
 <br>
