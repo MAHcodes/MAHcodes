@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/404595695195258880?bg=1E1E2E&theme=dark&)](https://discord.com/users/404595695195258880)
+[![Discord Presence](https://lanyard.cnrad.dev/api/404595695195258880?bg=1E1E2E&theme=dark)](https://discord.com/users/404595695195258880)
 
 <h4>Total time coded since Jun 29 2022</h4>
 <a href="https://wakatime.com/@44eeab2c-51f5-4574-a918-82e5b17d9c49"><img src="https://wakatime.com/badge/user/44eeab2c-51f5-4574-a918-82e5b17d9c49.svg?style=for-the-badge" alt="Total time coded since Jun 29 2022" /></a></div>
@@ -148,7 +148,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 ### :inbox_tray: How to reach me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmdalihsen102@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MhmdAliHsen)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdotcodes@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MAHcodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mah-codes-66b0671b7/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&bgColor=black)](https://t.me/mhmdalihsen)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/404595695195258880)
