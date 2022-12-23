@@ -141,9 +141,9 @@ TypeScript               2 repos             █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/Frontend-challenges](https://github.com/MAHcodes/Frontend-challenges)
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/Frontend-challenges](https://github.com/MAHcodes/Frontend-challenges)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
