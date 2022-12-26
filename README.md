@@ -140,10 +140,10 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-2. ⭐ Starred [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles)
-3. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. ⭐ Starred [docker/awesome-compose](https://github.com/docker/awesome-compose)
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+3. ⭐ Starred [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles)
+4. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. ⭐ Starred [docker/awesome-compose](https://github.com/docker/awesome-compose)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
