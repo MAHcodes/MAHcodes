@@ -158,12 +158,11 @@ Last Updated on 22/12/2022 18:40:55 UTC
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-4. ⭐ Starred [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles)
-5. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+5. ⭐ Starred [AlfieJones/theme-toggles](https://github.com/AlfieJones/theme-toggles)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
