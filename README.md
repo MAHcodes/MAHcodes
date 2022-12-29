@@ -9,18 +9,6 @@
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=7287fd&logoColor=7287fd&labelColor=1E1E2E" /></a>
 </div>
 
-<br>
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/404595695195258880?bg=1E1E2E&theme=dark)](https://discord.com/users/404595695195258880)
-
-<br>
-<a href="https://www.github.com/mahcodes"><img src="https://img.shields.io/github/followers/mahcodes?logo=github&style=for-the-badge" /></a>
-<a href="https://www.github.com/mahcodes"><img src="https://komarev.com/ghpvc/?username=MAHcodes&style=for-the-badge" alt="MAHcodes github profile views" /></a>
-<br>
-<a href="https://wakatime.com/@44eeab2c-51f5-4574-a918-82e5b17d9c49"><img src="https://wakatime.com/badge/user/44eeab2c-51f5-4574-a918-82e5b17d9c49.svg?style=for-the-badge" alt="Total time coded since Jun 29 2022" /></a></div>
-
 ### :man_technologist: About Me
 
 - :books: I'm self-taught Front End Web Developer.
@@ -70,7 +58,9 @@
 
 <details>
 <summary style="font-size: 1.75rem; font-weight: bold;"><strong style="font-size: 1.75rem; font-weight: bold;"> 🤓 Other Stats </strong></summary>
-<br>
+
+<a href="https://www.github.com/mahcodes"><img src="https://komarev.com/ghpvc/?username=MAHcodes&style=for-the-badge" alt="MAHcodes github profile views" /></a>
+<a href="https://wakatime.com/@44eeab2c-51f5-4574-a918-82e5b17d9c49"><img src="https://wakatime.com/badge/user/44eeab2c-51f5-4574-a918-82e5b17d9c49.svg?style=for-the-badge" alt="Total time coded since Jun 29 2022" /></a>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-249%20Thousand%20lines%20of%20code-blue)
