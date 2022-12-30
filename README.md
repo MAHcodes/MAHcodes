@@ -148,7 +148,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+1. ⭐ Starred [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager)
 2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
