@@ -149,10 +149,10 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
-2. ⭐ Starred [szimek/sharedrop](https://github.com/szimek/sharedrop)
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)
+3. ⭐ Starred [szimek/sharedrop](https://github.com/szimek/sharedrop)
 4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
-5. ⭐ Starred [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager)
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
