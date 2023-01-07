@@ -148,10 +148,10 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/zap-zsh/zapzsh.org/pull/3#issuecomment-1374479915) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
-2. 💪 Opened PR [#3](https://github.com/zap-zsh/zapzsh.org/pull/3) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⭐ Starred [tuanphungcz/javascriptdevs.com](https://github.com/tuanphungcz/javascriptdevs.com)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+3. 💬 Commented on [#3](https://github.com/zap-zsh/zapzsh.org/pull/3#issuecomment-1374479915) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
+4. 💪 Opened PR [#3](https://github.com/zap-zsh/zapzsh.org/pull/3) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
