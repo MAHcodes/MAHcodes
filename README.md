@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
-3. 💬 Commented on [#3](https://github.com/zap-zsh/zapzsh.org/pull/3#issuecomment-1374479915) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
-4. 💪 Opened PR [#3](https://github.com/zap-zsh/zapzsh.org/pull/3) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+1. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+5. 💬 Commented on [#3](https://github.com/zap-zsh/zapzsh.org/pull/3#issuecomment-1374479915) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
