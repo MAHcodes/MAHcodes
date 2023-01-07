@@ -148,9 +148,9 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-2. ⭐ Starred [tuanphungcz/javascriptdevs.com](https://github.com/tuanphungcz/javascriptdevs.com)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+1. 💪 Opened PR [#3](https://github.com/zap-zsh/zapzsh.org/pull/3) in [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+3. ⭐ Starred [tuanphungcz/javascriptdevs.com](https://github.com/tuanphungcz/javascriptdevs.com)<br>
 4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
