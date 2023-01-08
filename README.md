@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-2. ⭐ Starred [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)<br>
-3. ⬆️ Pushed 1 commit(s) to [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-5. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+1. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+3. ⭐ Starred [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)<br>
+4. ⬆️ Pushed 1 commit(s) to [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
