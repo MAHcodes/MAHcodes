@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⭐ Starred [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux)<br>
-5. ⬆️ Pushed 1 commit(s) to [zap-zsh/zapzsh.org](https://github.com/zap-zsh/zapzsh.org)<br>
+1. ⬆️ Pushed 80 commit(s) to [MAHcodes/lunarvim.org](https://github.com/MAHcodes/lunarvim.org)<br>
+2. 💬 Commented on [#2](https://github.com/LostNeophyte/lunarvim.org/pull/2#issuecomment-1375034627) in [LostNeophyte/lunarvim.org](https://github.com/LostNeophyte/lunarvim.org)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/lunarvim.org](https://github.com/MAHcodes/lunarvim.org)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/lunarvim.org](https://github.com/MAHcodes/lunarvim.org)<br>
+5. 💪 Opened PR [#2](https://github.com/LostNeophyte/lunarvim.org/pull/2) in [LostNeophyte/lunarvim.org](https://github.com/LostNeophyte/lunarvim.org)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
