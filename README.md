@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/LostNeophyte/lunarvim.org/pull/3) in [LostNeophyte/lunarvim.org](https://github.com/LostNeophyte/lunarvim.org)<br>
-2. 👍 Approved [#334](https://github.com/LunarVim/lunarvim.org/pull/334#pullrequestreview-1240778853) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-3. ⬆️ Pushed 80 commit(s) to [MAHcodes/lunarvim.org](https://github.com/MAHcodes/lunarvim.org)<br>
-4. 💬 Commented on [#2](https://github.com/LostNeophyte/lunarvim.org/pull/2#issuecomment-1375034627) in [LostNeophyte/lunarvim.org](https://github.com/LostNeophyte/lunarvim.org)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/lunarvim.org](https://github.com/MAHcodes/lunarvim.org)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+2. 💪 Opened PR [#3](https://github.com/LostNeophyte/lunarvim.org/pull/3) in [LostNeophyte/lunarvim.org](https://github.com/LostNeophyte/lunarvim.org)<br>
+3. 👍 Approved [#334](https://github.com/LunarVim/lunarvim.org/pull/334#pullrequestreview-1240778853) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+4. ⬆️ Pushed 80 commit(s) to [MAHcodes/lunarvim.org](https://github.com/MAHcodes/lunarvim.org)<br>
+5. 💬 Commented on [#2](https://github.com/LostNeophyte/lunarvim.org/pull/2#issuecomment-1375034627) in [LostNeophyte/lunarvim.org](https://github.com/LostNeophyte/lunarvim.org)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
