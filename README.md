@@ -150,7 +150,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/distro-prompt](https://github.com/MAHcodes/distro-prompt)<br>
 2. ⬆️ Pushed 1 commit(s) to [MAHcodes/distro-prompt](https://github.com/MAHcodes/distro-prompt)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/distro-prompt](https://github.com/MAHcodes/distro-prompt)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
 4. ⬆️ Pushed 1 commit(s) to [MAHcodes/distro-prompt](https://github.com/MAHcodes/distro-prompt)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/distro-prompt](https://github.com/MAHcodes/distro-prompt)<br>
 <!--RECENT_ACTIVITY:end-->
