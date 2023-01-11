@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C)<br>
-2. 🔱 Forked [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C) from [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⭐ Starred [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+1. ⭐ Starred [karan/Projects](https://github.com/karan/Projects)<br>
+2. ⬆️ Pushed 8 commit(s) to [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C)<br>
+3. 🔱 Forked [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C) from [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+5. ⭐ Starred [gabrielzschmitz/Tomato.C](https://github.com/gabrielzschmitz/Tomato.C)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
