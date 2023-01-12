@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sharkdp/vivid](https://github.com/sharkdp/vivid)<br>
-2. ❗️ Opened issue [#1809](https://github.com/catppuccin/catppuccin/issues/1809) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-5. ⬆️ Pushed 30 commit(s) to [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+2. ⭐ Starred [sharkdp/vivid](https://github.com/sharkdp/vivid)<br>
+3. ❗️ Opened issue [#1809](https://github.com/catppuccin/catppuccin/issues/1809) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
