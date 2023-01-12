@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#342](https://github.com/LunarVim/lunarvim.org/pull/342) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-3. ⭐ Starred [sharkdp/vivid](https://github.com/sharkdp/vivid)<br>
-4. ❗️ Opened issue [#1809](https://github.com/catppuccin/catppuccin/issues/1809) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+1. 💬 Commented on [#342](https://github.com/LunarVim/lunarvim.org/pull/342#issuecomment-1380466444) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+2. 💪 Opened PR [#342](https://github.com/LunarVim/lunarvim.org/pull/342) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+4. ⭐ Starred [sharkdp/vivid](https://github.com/sharkdp/vivid)<br>
+5. ❗️ Opened issue [#1809](https://github.com/catppuccin/catppuccin/issues/1809) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
