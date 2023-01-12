@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-3. ⬆️ Pushed 30 commit(s) to [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-5. ⬆️ Pushed 5 commit(s) to [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C)<br>
+1. ❗️ Opened issue [#1809](https://github.com/catppuccin/catppuccin/issues/1809) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+4. ⬆️ Pushed 30 commit(s) to [MAHcodes/Tomato.C](https://github.com/MAHcodes/Tomato.C)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
