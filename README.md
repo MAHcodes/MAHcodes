@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-2. ⬆️ Pushed 3 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-3. 👍 Approved [#344](https://github.com/LunarVim/lunarvim.org/pull/344#pullrequestreview-1247616151) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-4. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-5. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
+4. ⬆️ Pushed 3 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
+5. 👍 Approved [#344](https://github.com/LunarVim/lunarvim.org/pull/344#pullrequestreview-1247616151) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
