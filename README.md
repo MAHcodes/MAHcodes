@@ -149,10 +149,10 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-2. 💪 Opened PR [#15](https://github.com/nodetec/notebin/pull/15) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-3. ⬆️ Pushed 4 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+3. 💪 Opened PR [#17](https://github.com/nodetec/notebin/pull/17) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
 4. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-5. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
+5. 💪 Opened PR [#15](https://github.com/nodetec/notebin/pull/15) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
