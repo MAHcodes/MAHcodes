@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-2. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-4. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-5. ❌ Closed PR [#342](https://github.com/LunarVim/lunarvim.org/pull/342) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+1. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+2. 💪 Opened PR [#15](https://github.com/nodetec/notebin/pull/15) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+3. ⬆️ Pushed 4 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+4. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+5. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
