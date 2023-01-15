@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#9](https://github.com/nodetec/NoteBin/pull/9) in [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-2. ⬆️ Pushed 2 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-4. ⬆️ Pushed 1 commit(s) to [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
-5. 🎉 Merged PR [#8](https://github.com/nodetec/NoteBin/pull/8) in [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
+1. ❌ Closed PR [#342](https://github.com/LunarVim/lunarvim.org/pull/342) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+2. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+3. 🎉 Merged PR [#348](https://github.com/LunarVim/lunarvim.org/pull/348) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+4. 💬 Commented on [#348](https://github.com/LunarVim/lunarvim.org/pull/348#issuecomment-1383176600) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+5. ❌ Closed PR [#9](https://github.com/nodetec/NoteBin/pull/9) in [nodetec/NoteBin](https://github.com/nodetec/NoteBin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
