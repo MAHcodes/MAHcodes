@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. 👍 Approved [#355](https://github.com/LunarVim/lunarvim.org/pull/355#pullrequestreview-1250440105) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
-5. 💬 Commented on [#36](https://github.com/nodetec/notebin/issues/36#issuecomment-1383507639) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+1. ❗️ Opened issue [#1819](https://github.com/catppuccin/catppuccin/issues/1819) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+3. 👍 Approved [#355](https://github.com/LunarVim/lunarvim.org/pull/355#pullrequestreview-1250440105) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
