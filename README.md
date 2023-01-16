@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
-3. 💬 Commented on [#36](https://github.com/nodetec/notebin/issues/36#issuecomment-1383507639) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-4. 💬 Commented on [#35](https://github.com/nodetec/notebin/pull/35#issuecomment-1383496405) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-5. ❌ Closed PR [#15](https://github.com/nodetec/notebin/pull/15) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+1. 👍 Approved [#355](https://github.com/LunarVim/lunarvim.org/pull/355#pullrequestreview-1250440105) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+4. 💬 Commented on [#36](https://github.com/nodetec/notebin/issues/36#issuecomment-1383507639) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+5. 💬 Commented on [#35](https://github.com/nodetec/notebin/pull/35#issuecomment-1383496405) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
