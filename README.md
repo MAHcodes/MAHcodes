@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-2. 💪 Opened PR [#92](https://github.com/nodetec/notebin/pull/92) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-4. ⬆️ Pushed 2 commit(s) to [MAHcodes/notebin](https://github.com/MAHcodes/notebin)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/notebin](https://github.com/MAHcodes/notebin)<br>
+1. 💬 Commented on [#91](https://github.com/nodetec/notebin/pull/91#issuecomment-1398613773) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+3. ⬆️ Pushed 12 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+4. ⬆️ Pushed 12 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+5. 💬 Commented on [#1819](https://github.com/catppuccin/catppuccin/issues/1819#issuecomment-1398580000) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
