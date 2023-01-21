@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-3. 💬 Commented on [#95](https://github.com/nodetec/notebin/issues/95#issuecomment-1399249679) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-4. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-5. 💬 Commented on [#95](https://github.com/nodetec/notebin/issues/95#issuecomment-1399036805) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+1. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+2. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
+3. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
