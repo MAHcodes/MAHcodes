@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
-2. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-3. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
+1. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+2. ⬆️ Pushed 2 commit(s) to [MAHcodes/dwm](https://github.com/MAHcodes/dwm)<br>
+3. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
 4. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
