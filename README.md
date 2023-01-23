@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-2. ⬆️ Pushed 2 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-3. ⬆️ Pushed 4 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-4. 💪 Opened PR [#134](https://github.com/nodetec/notebin/pull/134) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/portfolio](https://github.com/MAHcodes/portfolio)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+3. ⬆️ Pushed 2 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+4. ⬆️ Pushed 4 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+5. 💪 Opened PR [#134](https://github.com/nodetec/notebin/pull/134) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
