@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-2. ⬆️ Pushed 115 commit(s) to [MAHcodes/notebin](https://github.com/MAHcodes/notebin)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-5. 💬 Commented on [#147](https://github.com/nodetec/notebin/issues/147#issuecomment-1404678360) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+1. 💪 Opened PR [#156](https://github.com/nodetec/notebin/pull/156) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+3. ⬆️ Pushed 115 commit(s) to [MAHcodes/notebin](https://github.com/MAHcodes/notebin)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
