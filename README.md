@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#152](https://github.com/nodetec/notebin/pull/152) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+1. 💬 Commented on [#144](https://github.com/nodetec/notebin/issues/144#issuecomment-1404525597) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
 2. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-3. ❗️ Opened issue [#149](https://github.com/nodetec/notebin/issues/149) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-4. 💬 Commented on [#144](https://github.com/nodetec/notebin/issues/144#issuecomment-1404308403) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
-5. 💬 Commented on [#144](https://github.com/nodetec/notebin/issues/144#issuecomment-1404293843) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+3. ⬆️ Pushed 5 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+4. 💪 Opened PR [#152](https://github.com/nodetec/notebin/pull/152) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+5. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
