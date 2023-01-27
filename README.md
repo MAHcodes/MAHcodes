@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-2. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. 🎉 Merged PR [#10](https://github.com/nodetec/blogstack/pull/10) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. ⬆️ Pushed 4 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. 💪 Opened PR [#10](https://github.com/nodetec/blogstack/pull/10) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. ✔️ Closed issue [#149](https://github.com/nodetec/notebin/issues/149) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+3. ⬆️ Pushed 3 commit(s) to [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+4. 🎉 Merged PR [#156](https://github.com/nodetec/notebin/pull/156) in [nodetec/notebin](https://github.com/nodetec/notebin)<br>
+5. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
