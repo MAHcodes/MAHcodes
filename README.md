@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#51](https://github.com/nodetec/blogstack/pull/51) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-2. ⬆️ Pushed 29 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
+2. 💪 Opened PR [#51](https://github.com/nodetec/blogstack/pull/51) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⬆️ Pushed 29 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 4. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+5. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
