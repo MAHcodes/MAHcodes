@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-3. 🎉 Merged PR [#59](https://github.com/nodetec/blogstack/pull/59) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. 💪 Opened PR [#59](https://github.com/nodetec/blogstack/pull/59) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. 🎉 Merged PR [#363](https://github.com/LunarVim/lunarvim.org/pull/363) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+2. ⬆️ Pushed 2 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. 🎉 Merged PR [#59](https://github.com/nodetec/blogstack/pull/59) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
