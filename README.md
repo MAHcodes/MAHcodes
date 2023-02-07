@@ -151,8 +151,8 @@ TypeScript               2 repos             █░░░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-5. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
