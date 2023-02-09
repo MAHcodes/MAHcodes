@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#364](https://github.com/LunarVim/lunarvim.org/pull/364#issuecomment-1423317499) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-3. ⬆️ Pushed 3 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+1. 🎉 Merged PR [#364](https://github.com/LunarVim/lunarvim.org/pull/364) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+2. ✔️ Closed issue [#362](https://github.com/LunarVim/lunarvim.org/issues/362) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+3. ⬆️ Pushed 4 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+4. 💬 Commented on [#364](https://github.com/LunarVim/lunarvim.org/pull/364#issuecomment-1424155893) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+5. 💬 Commented on [#364](https://github.com/LunarVim/lunarvim.org/pull/364#issuecomment-1423317499) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
