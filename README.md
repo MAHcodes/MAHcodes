@@ -148,11 +148,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+1. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/start-page](https://github.com/MAHcodes/start-page)<br>
 3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-4. 🎉 Merged PR [#364](https://github.com/LunarVim/lunarvim.org/pull/364) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-5. ✔️ Closed issue [#362](https://github.com/LunarVim/lunarvim.org/issues/362) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
