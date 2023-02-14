@@ -148,11 +148,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-3. 📔 Created new repository [MAHcodes/sowlutions-test](https://github.com/MAHcodes/sowlutions-test)<br>
-4. 📔 Created new repository [MAHcodes/sowlutions-test](https://github.com/MAHcodes/sowlutions-test)<br>
-5. 📔 Created new repository [MAHcodes/sowlutions-test](https://github.com/MAHcodes/sowlutions-test)<br>
+1. 🎉 Merged PR [#51](https://github.com/nodetec/blogstack/pull/51) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. ⬆️ Pushed 27 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⬆️ Pushed 198 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
