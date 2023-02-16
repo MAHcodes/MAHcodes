@@ -148,11 +148,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. 💬 Commented on [#80](https://github.com/nodetec/blogstack/issues/80#issuecomment-1430650676) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. 🎉 Merged PR [#92](https://github.com/nodetec/blogstack/pull/92) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. ⬆️ Pushed 5 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. 💬 Commented on [#80](https://github.com/nodetec/blogstack/issues/80#issuecomment-1430650676) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+5. 🎉 Merged PR [#92](https://github.com/nodetec/blogstack/pull/92) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
