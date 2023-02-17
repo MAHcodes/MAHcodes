@@ -148,11 +148,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⭐ Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-5. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. ⭐ Starred [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+3. ⭐ Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/canadiansouq.com](https://github.com/MAHcodes/canadiansouq.com)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
