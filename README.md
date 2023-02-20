@@ -149,10 +149,10 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lichess](https://github.com/MAHcodes/lichess)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-3. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
-4. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lichess](https://github.com/MAHcodes/lichess)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+4. ⭐ Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)<br>
+5. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
