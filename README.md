@@ -148,10 +148,10 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lichess](https://github.com/MAHcodes/lichess)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/lichess](https://github.com/MAHcodes/lichess)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/lichess](https://github.com/MAHcodes/lichess)<br>
+1. 🎉 Merged PR [#103](https://github.com/nodetec/blogstack/pull/103) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. ⬆️ Pushed 5 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. 💪 Opened PR [#103](https://github.com/nodetec/blogstack/pull/103) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
