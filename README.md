@@ -149,8 +149,8 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-2. 💪 Opened PR [#107](https://github.com/nodetec/blogstack/pull/107) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. 💪 Opened PR [#107](https://github.com/nodetec/blogstack/pull/107) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 4. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 5. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
