@@ -149,10 +149,10 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-2. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. 🎉 Merged PR [#108](https://github.com/nodetec/blogstack/pull/108) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. 💪 Opened PR [#108](https://github.com/nodetec/blogstack/pull/108) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+5. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
