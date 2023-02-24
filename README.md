@@ -145,10 +145,10 @@ C                        1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#112](https://github.com/nodetec/blogstack/pull/112) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-2. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. 💪 Opened PR [#112](https://github.com/nodetec/blogstack/pull/112) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/hackerbadge](https://github.com/MAHcodes/hackerbadge)<br>
+1. ⭐ Starred [ChristianChiarulli/hackerbadge](https://github.com/ChristianChiarulli/hackerbadge)<br>
+2. 🎉 Merged PR [#112](https://github.com/nodetec/blogstack/pull/112) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. 💪 Opened PR [#112](https://github.com/nodetec/blogstack/pull/112) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/hackerbadge](https://github.com/MAHcodes/hackerbadge)<br>
 <!--RECENT_ACTIVITY:end-->
 
