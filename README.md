@@ -145,11 +145,11 @@ PHP                      2 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-3. 🎉 Merged PR [#120](https://github.com/nodetec/blogstack/pull/120) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. ⬆️ Pushed 2 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. 💪 Opened PR [#120](https://github.com/nodetec/blogstack/pull/120) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⭐ Starred [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+5. 🎉 Merged PR [#120](https://github.com/nodetec/blogstack/pull/120) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
