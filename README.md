@@ -145,11 +145,11 @@ PHP                      2 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. 💪 Opened PR [#117](https://github.com/nodetec/blogstack/pull/117) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 2. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. ❌ Closed PR [#113](https://github.com/nodetec/blogstack/pull/113) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. 🎉 Merged PR [#115](https://github.com/nodetec/blogstack/pull/115) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+5. ❌ Closed PR [#113](https://github.com/nodetec/blogstack/pull/113) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
