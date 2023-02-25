@@ -145,11 +145,11 @@ PHP                      2 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#113](https://github.com/nodetec/blogstack/pull/113) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-2. 🎉 Merged PR [#115](https://github.com/nodetec/blogstack/pull/115) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. 💪 Opened PR [#115](https://github.com/nodetec/blogstack/pull/115) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+1. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. ❌ Closed PR [#113](https://github.com/nodetec/blogstack/pull/113) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. 🎉 Merged PR [#115](https://github.com/nodetec/blogstack/pull/115) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+5. 💪 Opened PR [#115](https://github.com/nodetec/blogstack/pull/115) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
