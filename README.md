@@ -145,10 +145,10 @@ PHP                      2 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-2. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-3. 💪 Opened PR [#125](https://github.com/nodetec/blogstack/pull/125) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. ❌ Closed PR [#105](https://github.com/nodetec/blogstack/pull/105) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. 📔 Created new repository [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. 💪 Opened PR [#125](https://github.com/nodetec/blogstack/pull/125) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 5. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
