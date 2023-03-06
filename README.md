@@ -145,10 +145,10 @@ PHP                      2 repos             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dglt1/optimus-switch](https://github.com/dglt1/optimus-switch)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/blogstack](https://github.com/MAHcodes/blogstack)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+2. ⭐ Starred [dglt1/optimus-switch](https://github.com/dglt1/optimus-switch)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+4. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/blogstack](https://github.com/MAHcodes/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
