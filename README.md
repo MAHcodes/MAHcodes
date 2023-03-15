@@ -145,10 +145,10 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/nodetec/ublog/pull/1) in [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-2. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
+2. ⬆️ Pushed 5 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
 3. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-4. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+4. 💪 Opened PR [#1](https://github.com/nodetec/ublog/pull/1) in [nodetec/ublog](https://github.com/nodetec/ublog)<br>
 5. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
 <!--RECENT_ACTIVITY:end-->
 
