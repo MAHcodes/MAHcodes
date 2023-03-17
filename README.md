@@ -145,11 +145,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. 🎉 Merged PR [#1](https://github.com/nodetec/ublog/pull/1) in [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-3. ⬆️ Pushed 39 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-4. ⬆️ Pushed 2 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-5. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+1. ⭐ Starred [facebook/react](https://github.com/facebook/react)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+3. 🎉 Merged PR [#1](https://github.com/nodetec/ublog/pull/1) in [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+4. ⬆️ Pushed 39 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+5. ⬆️ Pushed 2 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
