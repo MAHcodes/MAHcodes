@@ -146,10 +146,10 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-2. ⭐ Starred [dandavison/delta](https://github.com/dandavison/delta)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/distro-prompt](https://github.com/MAHcodes/distro-prompt)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+3. ⭐ Starred [dandavison/delta](https://github.com/dandavison/delta)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/distro-prompt](https://github.com/MAHcodes/distro-prompt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
