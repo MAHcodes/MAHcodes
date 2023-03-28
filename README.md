@@ -137,11 +137,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr)<br>
-2. 🔱 Forked [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr) from [ChristianChiarulli/awesome-nostr](https://github.com/ChristianChiarulli/awesome-nostr)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
-4. ⬆️ Pushed 3 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
+1. 💪 Opened PR [#231](https://github.com/aljazceru/awesome-nostr/pull/231) in [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr)<br>
+3. 🔱 Forked [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr) from [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
