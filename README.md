@@ -138,11 +138,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#383](https://github.com/LunarVim/lunarvim.org/pull/383#issuecomment-1487403489) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-2. 💪 Opened PR [#383](https://github.com/LunarVim/lunarvim.org/pull/383) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-3. 💪 Opened PR [#231](https://github.com/aljazceru/awesome-nostr/pull/231) in [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr)<br>
-5. 🔱 Forked [MAHcodes/awesome-nostr](https://github.com/MAHcodes/awesome-nostr) from [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+2. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+3. 🎉 Merged PR [#383](https://github.com/LunarVim/lunarvim.org/pull/383) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+4. 💬 Commented on [#383](https://github.com/LunarVim/lunarvim.org/pull/383#issuecomment-1487403489) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+5. 💪 Opened PR [#383](https://github.com/LunarVim/lunarvim.org/pull/383) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
