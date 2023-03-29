@@ -138,11 +138,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-4. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-5. 🎉 Merged PR [#383](https://github.com/LunarVim/lunarvim.org/pull/383) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets-go](https://github.com/MAHcodes/lets-go)<br>
+3. 📔 Created new repository [MAHcodes/lets-go](https://github.com/MAHcodes/lets-go)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
