@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⭐ Starred [muesli/duf](https://github.com/muesli/duf)<br>
-3. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
-4. ⭐ Starred [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+4. ⭐ Starred [muesli/duf](https://github.com/muesli/duf)<br>
+5. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
