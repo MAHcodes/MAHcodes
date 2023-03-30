@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets-go](https://github.com/MAHcodes/lets-go)<br>
-4. 📔 Created new repository [MAHcodes/lets-go](https://github.com/MAHcodes/lets-go)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
+2. ⭐ Starred [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets-go](https://github.com/MAHcodes/lets-go)<br>
+5. 📔 Created new repository [MAHcodes/lets-go](https://github.com/MAHcodes/lets-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
