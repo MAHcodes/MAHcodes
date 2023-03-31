@@ -138,10 +138,10 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)<br>
-2. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
-3. ⬆️ Pushed 2 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+1. ⭐ Starred [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps)<br>
+2. ⭐ Starred [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)<br>
+3. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
+4. ⬆️ Pushed 2 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
 <!--RECENT_ACTIVITY:end-->
 
