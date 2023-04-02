@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
-2. ⭐ Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)<br>
-3. ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)<br>
-4. ⭐ Starred [golang/go](https://github.com/golang/go)<br>
-5. ⬆️ Pushed 2 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/MAHcodes](https://github.com/MAHcodes/MAHcodes)<br>
+3. ⭐ Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)<br>
+4. ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)<br>
+5. ⭐ Starred [golang/go](https://github.com/golang/go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
