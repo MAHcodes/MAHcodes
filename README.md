@@ -138,10 +138,10 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [MAHcodes/terminostr](https://github.com/MAHcodes/terminostr)<br>
-2. ⭐ Starred [gizak/termui](https://github.com/gizak/termui)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+2. 📔 Created new repository [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+3. 📔 Created new repository [MAHcodes/terminostr](https://github.com/MAHcodes/terminostr)<br>
+4. ⭐ Starred [gizak/termui](https://github.com/gizak/termui)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
