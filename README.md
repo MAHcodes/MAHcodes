@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/MAHcodes/nostrfetch/issues/1) in [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-2. ❗️ Opened issue [#1](https://github.com/MAHcodes/nostrfetch/issues/1) in [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-3. ⬆️ Pushed 2 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+1. ✌️ Released [v0.1.0](https://github.com/MAHcodes/nostrfetch/releases/tag/v0.1.0) in [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
 4. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-5. ⬆️ Pushed 2 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+5. ✔️ Closed issue [#1](https://github.com/MAHcodes/nostrfetch/issues/1) in [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
