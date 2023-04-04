@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-3. 📔 Created new repository [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-4. 📔 Created new repository [MAHcodes/terminostr](https://github.com/MAHcodes/terminostr)<br>
-5. ⭐ Starred [gizak/termui](https://github.com/gizak/termui)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+2. ⬆️ Pushed 2 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+4. 📔 Created new repository [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+5. 📔 Created new repository [MAHcodes/terminostr](https://github.com/MAHcodes/terminostr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
