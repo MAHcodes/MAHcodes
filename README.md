@@ -140,9 +140,9 @@ Go                       1 repo              █░░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
 2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-3. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-5. ✔️ Closed issue [#2](https://github.com/MAHcodes/nostrfetch/issues/2) in [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+5. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
