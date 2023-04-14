@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⬆️ Pushed 0 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
-5. ⬆️ Pushed 2 commit(s) to [MAHcodes/nostrfetch](https://github.com/MAHcodes/nostrfetch)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
+2. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+3. ⬆️ Pushed 1 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
+4. ⬆️ Pushed 4 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
+5. ⬆️ Pushed 4 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
