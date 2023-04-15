@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
-2. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-4. 🎉 Merged PR [#136](https://github.com/nodetec/blogstack/pull/136) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
-5. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+1. ⬆️ Pushed 2 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+2. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
+3. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)<br>
+4. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+5. 🎉 Merged PR [#136](https://github.com/nodetec/blogstack/pull/136) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
