@@ -138,10 +138,10 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
-2. ⬆️ Pushed 2 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
-3. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
-4. ⬆️ Pushed 1 commit(s) to [nodetec/ublog](https://github.com/nodetec/ublog)<br>
+1. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+2. 🎉 Merged PR [#136](https://github.com/nodetec/blogstack/pull/136) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+3. ⬆️ Pushed 1 commit(s) to [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
+4. 💪 Opened PR [#136](https://github.com/nodetec/blogstack/pull/136) in [nodetec/blogstack](https://github.com/nodetec/blogstack)<br>
 5. ⬆️ Pushed 3 commit(s) to [MAHcodes/ublog](https://github.com/MAHcodes/ublog)<br>
 <!--RECENT_ACTIVITY:end-->
 
