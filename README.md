@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-2. ⬆️ Pushed 2 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-5. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+1. ❗️ Opened issue [#22](https://github.com/LunarVim/darkplus.nvim/issues/22) in [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+3. ⬆️ Pushed 2 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
