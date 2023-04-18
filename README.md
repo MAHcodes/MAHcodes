@@ -138,10 +138,10 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#22](https://github.com/LunarVim/darkplus.nvim/issues/22) in [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim)<br>
-2. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-3. ⬆️ Pushed 2 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+2. 🎉 Merged PR [#389](https://github.com/LunarVim/lunarvim.org/pull/389) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+3. 👍 Approved [#389](https://github.com/LunarVim/lunarvim.org/pull/389#pullrequestreview-1389557038) in [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
+4. ❗️ Opened issue [#22](https://github.com/LunarVim/darkplus.nvim/issues/22) in [LunarVim/darkplus.nvim](https://github.com/LunarVim/darkplus.nvim)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
 <!--RECENT_ACTIVITY:end-->
 
