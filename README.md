@@ -138,10 +138,10 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)<br>
-2. ⭐ Starred [cosmtrek/air](https://github.com/cosmtrek/air)<br>
-3. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
-4. ⬆️ Pushed 1 commit(s) to [MAHcodes/cdc-cli](https://github.com/MAHcodes/cdc-cli)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+2. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)<br>
+3. ⭐ Starred [cosmtrek/air](https://github.com/cosmtrek/air)<br>
+4. ⬆️ Pushed 1 commit(s) to [LunarVim/lunarvim.org](https://github.com/LunarVim/lunarvim.org)<br>
 5. ⬆️ Pushed 1 commit(s) to [MAHcodes/cdc-cli](https://github.com/MAHcodes/cdc-cli)<br>
 <!--RECENT_ACTIVITY:end-->
 
