@@ -138,11 +138,11 @@ Go                       1 repo              █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
-2. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
-3. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
-4. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)<br>
-5. ⭐ Starred [cosmtrek/air](https://github.com/cosmtrek/air)<br>
+1. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+2. ⬆️ Pushed 1 commit(s) to [MAHcodes/dotfiles](https://github.com/MAHcodes/dotfiles)<br>
+3. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
+4. ⬆️ Pushed 1 commit(s) to [MAHcodes/lets_go](https://github.com/MAHcodes/lets_go)<br>
+5. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### :inbox_tray: How to reach me
