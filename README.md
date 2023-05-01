@@ -6,10 +6,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%93%88+Stats+for+nerds+%F0%9F%93%88" alt="Stats for nerds" />
 
+<a href="https://www.github.com/mahcodes"><img src="https://komarev.com/ghpvc/?username=MAHcodes&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="MAHcodes github profile views" /></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00c6ff&logo=linux&color=161c1c" /></a>
+<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00c6ff&color=161c1c" /></a>
+<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00c6ff" /></a>
+<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=161c1c&logoColor=00c6ff" /></a>
+
 <div style="display:flex;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MAHcodes&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="MAHcodes GitHub Stats">
-    <span style="display:inline-block;width:2%"></span>
-    <img width="49%" src="https://streak-stats.demolab.com/?user=MAHcodes&theme=dark&background=161c1c&hide_border=true&border_radius=16&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" alt="MAHcodes GitHub Streak">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MAHcodes&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00c6ff&title_color=00c6ff&border_radius=16" alt="MAHcodes GitHub Stats">
+<span style="display:inline-block;width:2%"></span>
+<img width="49%" src="https://streak-stats.demolab.com/?user=MAHcodes&theme=dark&background=161c1c&hide_border=true&border_radius=16&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" alt="MAHcodes GitHub Streak">
 </div>
 <br>
 
@@ -28,7 +34,7 @@
 <br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=235&repeat=false&lines=%E2%82%BF+Donate+%E2%82%BF+" alt="Donate" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=235&repeat=false&lines=%E2%AD%90+Donate+%E2%AD%90" alt="Donate" />
 <br>
 
 <details><summary><strong>₿ Bitcoin ₿</strong></summary>
