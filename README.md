@@ -30,9 +30,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=235&repeat=false&lines=%E2%82%BF+Donate+%E2%82%BF+" alt="Donate" />
 <br>
-<img width="75" src="https://media2.giphy.com/media/dt1GOk4LEoZRfE4AqW/200w.webp?cid=ecf05e476e7s4a1tjhfjvegr54gaf66zq97ncfqc849maz7a&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="Donate bitcoin">
-<br>
-3KijD5AixosANYUF8JKAMk7W4aBGiMSLV1  
+
+<div align="center" style="display:flex;align-items:center;gap:0.5rem;justify-content:center;">
+<img width="36" src="https://media2.giphy.com/media/dt1GOk4LEoZRfE4AqW/200w.webp?cid=ecf05e476e7s4a1tjhfjvegr54gaf66zq97ncfqc849maz7a&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="Donate bitcoin">
+3KijD5AixosANYUF8JKAMk7W4aBGiMSLV1
+</div>
 
 <br>
 <br>
