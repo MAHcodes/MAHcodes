@@ -31,12 +31,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=235&repeat=false&lines=%E2%82%BF+Donate+%E2%82%BF+" alt="Donate" />
 <br>
 
-<div align="center" style="display:flex;align-items:center;gap:0.5rem;justify-content:center;">
+<div align="center">
 <details>
 <summary>
-<a href="#">
-<img width="75" src="https://media2.giphy.com/media/dt1GOk4LEoZRfE4AqW/200w.webp?cid=ecf05e476e7s4a1tjhfjvegr54gaf66zq97ncfqc849maz7a&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="Donate bitcoin"></summary>
+<a>
+<img width="75" src="https://media2.giphy.com/media/dt1GOk4LEoZRfE4AqW/200w.webp?cid=ecf05e476e7s4a1tjhfjvegr54gaf66zq97ncfqc849maz7a&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="Donate bitcoin">
 </a>
+</summary>
 <br>
 <img width="150" src="./images/bitcoin.png" alt="Bitcoin QR code">
 <br>
