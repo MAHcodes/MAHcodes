@@ -33,7 +33,10 @@
 
 <div align="center" style="display:flex;align-items:center;gap:0.5rem;justify-content:center;">
 <details>
-<summary><img width="75" src="https://media2.giphy.com/media/dt1GOk4LEoZRfE4AqW/200w.webp?cid=ecf05e476e7s4a1tjhfjvegr54gaf66zq97ncfqc849maz7a&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="Donate bitcoin"></summary>
+<summary>
+<a href="#">
+<img width="75" src="https://media2.giphy.com/media/dt1GOk4LEoZRfE4AqW/200w.webp?cid=ecf05e476e7s4a1tjhfjvegr54gaf66zq97ncfqc849maz7a&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="Donate bitcoin"></summary>
+</a>
 <br>
 <img width="150" src="./images/bitcoin.png" alt="Bitcoin QR code">
 <br>
