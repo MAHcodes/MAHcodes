@@ -19,7 +19,7 @@
 </div>
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=MAHcodes&amp;theme=xcode&amp;bg_color=161c1c&amp;point=00c6ff&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="MAHcodes github activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHcodes&amp;theme=xcode&amp;bg_color=161c1c&amp;point=00c6ff&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="MAHcodes github activity graph">
 
 <br>
 <br>
