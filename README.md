@@ -46,6 +46,8 @@
 </details>
 <details><summary><strong>🗲 Lightning 🗲</strong></summary>
 <br>
+<img width="150" src="./images/Lightning.png" alt="Lightning QR code">
+<br>
 <strong><a href="https://getalby.com/p/mahcodes">mahcodes@getalby.com</a></strong> 
 <br>
 </details>
