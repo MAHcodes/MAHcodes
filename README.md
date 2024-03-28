@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%91%8B+Hey%2C+it's+MAH.codes!+%F0%9F%91%8B" alt="Hello it's MAHcodes" />
 
 <a href="https://github.com/MAHcodes"><img src="https://github-widgetbox.vercel.app/api/profile?username=MAHcodes&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="MAHcodes Profile WidgetBox"></a>
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,sass,tailwind,js,ts,react,next,go,git,firebase,linux,bash,lua&amp;theme=darkmode" alt="MAHcodes Skills WidgetBox">
+<img src="https://github-widgetbox-orpin.vercel.app/api/skills?languages=html,css,sass,tailwind,js,ts,react,next,go,git,firebase,linux,gleam,lua&amp;theme=darkmode" alt="MAHcodes Skills WidgetBox">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00C6FF&center=true&width=435&repeat=false&lines=%F0%9F%93%88+Stats+for+nerds+%F0%9F%93%88" alt="Stats for nerds" />
 
